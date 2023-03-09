@@ -1,0 +1,42 @@
+
+/* CSS Reset */
+/* Use a CSS reset to normalize styles across different browsers */
+/* For example, you can use the popular reset.css by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/ */
+
+/* Global Styles */
+/* Define global styles that apply to the entire website */
+
+
+
+/* Typography */
+/* Define font families, sizes, colors, and other typographic styles */
+body {
+   color: white;
+}
+body {
+   font-family: sans-serif;
+ }
+
+/* Layout */
+/* Define layout styles, such as grid systems, responsive design, and positioning */
+
+/* Components */
+/* Define styles for individual components, such as buttons, forms, and navigation menus */
+
+/* Utility Classes */
+/* Define reusable utility classes that can be used throughout the website, such as helper classes for spacing, alignment, and text formatting */
+
+/* Page-Specific Styles */
+/* Define styles that apply only to specific pages or sections of the website */
+body {
+   background-color: #0A192F;
+}
+
+/* Media Queries */
+/* Define media queries to apply different styles based on screen size or device type */
+
+/* Custom Styles */
+/* Define any custom styles or overrides for third-party libraries or plugins */
+
+/* Additional Styles */
+/* Add any additional styles or comments as needed */
